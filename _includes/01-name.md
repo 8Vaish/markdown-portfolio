@@ -1,1 +1,3 @@
-Replace this with your name, and include a header.
+# Vaishnavi Bambal, PhD
+## I like ice cream
+What *flavour* do you like ?
